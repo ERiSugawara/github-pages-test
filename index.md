@@ -7,8 +7,8 @@ GitHub PagesによるHTMLドキュメント
 
 ## 他ページへのリンク
 
-* [doc1]()
-* [doc2]()
+* [doc1](./doc1.md)
+* [doc2](./sub/doc2.md)
 
 # 解説
 
