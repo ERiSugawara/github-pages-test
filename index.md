@@ -13,8 +13,8 @@ svg {
 
 ## 他ページへのリンク
 
-* [doc1](./doc1.md)
-* [doc2](./sub/doc2.md)
+* [doc1](./doc1.html)
+* [doc2](./sub/doc2.html)
 
 # 解説
 
