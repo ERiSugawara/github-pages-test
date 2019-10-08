@@ -135,3 +135,119 @@ deactivate MainActivity
 この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。
 
 この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。
+
+
+```plantuml
+@startuml テスト用クラス図
+
+class BeaconA {
+}
+
+class BeaconB {
+}
+
+class BeaconC {
+}
+
+class BeaconD {
+}
+
+class BeaconE {
+}
+
+class BeaconF {
+}
+
+class BeaconG {
+}
+
+class BeaconH {
+}
+
+class BeaconI {
+}
+
+class BeaconJ {
+}
+
+class BeaconK {
+}
+
+class BeaconL {
+}
+
+class BeaconM {
+}
+
+class BeaconN {
+}
+
+class BeaconO {
+}
+
+class BeaconP {
+}
+
+class BeaconQ {
+}
+
+class BeaconR {
+}
+
+class BeaconS {
+}
+
+class BeaconT {
+}
+
+class BeaconU {
+}
+
+class BeaconV {
+}
+
+class BeaconW {
+}
+
+class BeaconX {
+}
+
+class BeaconY {
+}
+
+class BeaconZ {
+}
+
+abstract class Beacon {
+}
+
+BeaconA --|> Beacon
+BeaconB --|> Beacon
+BeaconC --|> Beacon
+BeaconD --|> Beacon
+BeaconE --|> Beacon
+BeaconF --|> Beacon
+BeaconG --|> Beacon
+BeaconH --|> Beacon
+BeaconI --|> Beacon
+BeaconJ --|> Beacon
+BeaconK --|> Beacon
+BeaconL --|> Beacon
+BeaconM --|> Beacon
+
+BeaconN -u-|> Beacon
+BeaconO -u-|> Beacon
+BeaconP -u-|> Beacon
+BeaconQ -u-|> Beacon
+BeaconR -u-|> Beacon
+BeaconS -u-|> Beacon
+BeaconT -u-|> Beacon
+BeaconU -u-|> Beacon
+BeaconV -u-|> Beacon
+BeaconW -u-|> Beacon
+BeaconX -u-|> Beacon
+BeaconY -u-|> Beacon
+BeaconZ -u-|> Beacon
+
+@enduml
+```
