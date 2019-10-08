@@ -22,6 +22,14 @@ svg {
 
 この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。
 
+以下のUML図を元に、各BLE利用可能プラットフォーム向けのサンプルコードを用意しています。
+
+|BLE利用可能プラットフォーム|サンプルコード|
+|:---|:---:|
+|Android|[リンク](https://github.com/ERiSugawara/android-repo-test)|
+|iOS|リンク|
+|Windows10|リンク|
+
 ```plantuml
 @startuml テスト用クラス図
 
