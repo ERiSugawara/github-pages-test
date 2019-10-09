@@ -8,4 +8,4 @@ doc3コンテンツ。
 * [doc1](./doc1.html)
 * [doc2](./sub/doc2.html)
 * [doc4](./doc4.md)
-* [top](../)
+* [top](./index.html)
