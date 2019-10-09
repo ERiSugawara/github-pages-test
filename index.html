@@ -33,7 +33,7 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'github-pages-test',
+      name: 'GitHub PagesによるHTMLドキュメント作成テスト',
       homepage: '_top.md',
       loadSidebar: true,
       subMaxLevel: 2,
@@ -41,7 +41,11 @@
       plantuml: {
         skin: 'classic',
       },
-      search: 'auto',
+      search: {
+        paths: 'auto',
+        placeholder: 'サイト内検索',
+        noData: '項目は見つかりませんでした。',
+      },
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
