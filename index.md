@@ -17,7 +17,7 @@ svg {
 
 * [doc1](./doc1.html)
 * [doc2](./sub/doc2.html)
-* [doc3](./doc3.html)
+* [doc3](./doc3.md)
 
 # 解説
 
