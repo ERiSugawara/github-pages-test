@@ -1,38 +1,28 @@
-GitHub PagesによるHTMLドキュメント
-================================
+# GitHub PagesによるHTMLドキュメント
 
-<style>
-svg {
-    border: 1px solid #000;
-}
-</style>
-
-# 概要
+※このコンテンツはMarkdownファイルで管理し、ローカル環境ではHTML化していません。
 
 この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。
 
 <img src="./computer_screen_programming.png" width=300px>
 
-## 他ページへのリンク
+## サンプルコード
 
-* [doc1](./doc1.html)
-* [doc2](./sub/doc2.html)
-* [doc3](./doc3.html)
+[解説](#解説)のUML図を元に、各BLE利用可能プラットフォーム向けのサンプルコードを用意しています。
+
+* [Android版](https://github.com/ERiSugawara/android-repo-test)
+* iOS版 (公開時期未定)
+* Windows10 (UWP)版 (公開時期未定)
 
 # 解説
 
 この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。
 
-以下のUML図を元に、各BLE利用可能プラットフォーム向けのサンプルコードを用意しています。
-
-|BLE利用可能プラットフォーム|サンプルコード|
-|:---|:---:|
-|Android|[リンク](https://github.com/ERiSugawara/android-repo-test)|
-|iOS|リンク|
-|Windows10|リンク|
+---
 
 ```plantuml
-@startuml テスト用クラス図
+@startuml
+mainframe テスト用クラス図
 
 left to right direction
 
@@ -69,7 +59,8 @@ MainViewModel --> "*" Beacon: 一定時間内の受信結果リスト
 
 
 ```plantuml
-@startuml テスト用シーケンス図
+@startuml
+mainframe テスト用シーケンス図
 
 hide footbox
 
@@ -149,7 +140,8 @@ deactivate MainActivity
 
 
 ```plantuml
-@startuml テスト用クラス図
+@startuml
+mainframe 横幅が大きいクラス図のテスト
 
 class BeaconA {
 }
