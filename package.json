@@ -1,0 +1,21 @@
+{
+  "name": "github-pages-test",
+  "description": "GitHub Pagesをdocsifyと組み合わせた際の動作テスト",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERiSugawara/github-pages-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERiSugawara/github-pages-test/issues"
+  },
+  "homepage": "https://github.com/ERiSugawara/github-pages-test#readme",
+  "devDependencies": {
+    "docsify": "^4.9.4"
+  }
+}
