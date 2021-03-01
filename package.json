@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/ERiSugawara/github-pages-test#readme",
   "devDependencies": {
-    "docsify": "^4.9.4"
+    "docsify": "^4.12.0"
   }
 }
